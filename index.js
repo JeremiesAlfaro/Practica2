@@ -8,6 +8,6 @@ var app = new Vue({
 var app22 = new Vue({
     el: '#app22',
     data:{
-        imag: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e0/ce/85/sunset-beach.jpg?w=1200&h=-1&s=1'
+        imag: 'https://gacetamedica.com/wp-content/uploads/2021/02/GettyImages-1201463812.jpg'
     }
 });
